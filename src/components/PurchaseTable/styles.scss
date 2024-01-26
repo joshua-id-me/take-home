@@ -1,0 +1,71 @@
+.price
+{
+	font-size:16px;
+	font-weight:600;
+	vertical-align:middle;
+}
+
+.table
+{
+	background-color:#fff;
+	border:1px solid #E7E7ED;
+	border-collapse:collapse;
+	margin:0 auto;
+	max-width:1500px;
+	overflow-y:scroll;
+	width:100%;
+}
+
+.table>:not(thead)>*>*
+{
+	padding-bottom:15px;
+	padding-left:30px;
+}
+
+.tableWidth
+{
+	max-width:145px;
+}
+
+.tbHead
+{
+	color:#272833;
+	font-size:16px;
+	font-weight:700;
+	line-height:2.4;
+	max-width:139px;
+	overflow-wrap:break-word;
+	padding:15px 30px;
+	text-align:0;
+	text-transform:capitalize;
+	vertical-align:middle;
+}
+
+.tbHeader
+{
+	border-color:inherit;
+	border-style:solid;
+	border-width:1px;
+	display:table-header-group;
+}
+
+.tbImage
+{
+	border-radius:100px;
+	height:70px;
+	position:relative;
+	width:70px;
+}
+
+.tbRow
+{
+	border-color:inherit;
+	border-style:solid;
+	border-width:0;
+}
+
+.description,.info
+{
+	max-width:139px;
+	overflow-wrap:break-word;
+}

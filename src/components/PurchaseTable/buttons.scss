@@ -1,0 +1,24 @@
+.category {
+  font-weight: 600;
+  padding: 6px 24px;
+  border-radius: 2px;
+  background-color: #fff;
+  &.grey {
+    border: solid 1px #CDCED9;
+  }
+
+  &.green {
+    color: #118632;
+    border: solid 1px #98D4A9;
+  }
+
+  &.blue {
+    color: #89A7E0;
+    border: solid 1px #89A7E0;
+  }
+
+  &.red {
+    color: #D94130;
+    border: solid 1px #FF8577;
+  }
+}
