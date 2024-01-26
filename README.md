@@ -1,5 +1,5 @@
-## Take Home Exercise
-# Project Objective
+# Take Home Exercise
+## Project Objective
 
 
 Create a sample project that displays a list of purchases.
